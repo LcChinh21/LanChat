@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\thien\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\LanChat - Server.csproj",
+      "projectUniqueName": "C:\\Users\\thien\\Source\\Repos\\LanChat\\LanChat - Server\\LanChat - Server.csproj",
       "projectName": "LanChat - Server",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\LanChat - Server.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\obj\\",
+      "projectPath": "C:\\Users\\thien\\Source\\Repos\\LanChat\\LanChat - Server\\LanChat - Server.csproj",
+      "packagesPath": "C:\\Users\\thien\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thien\\Source\\Repos\\LanChat\\LanChat - Server\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

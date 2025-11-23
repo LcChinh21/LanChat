@@ -8,5 +8,6 @@ namespace LanChat___Server.Networking
 {
     internal class ClientSocket
     {
+
     }
 }

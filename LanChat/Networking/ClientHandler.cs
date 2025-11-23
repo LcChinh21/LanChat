@@ -8,5 +8,6 @@ namespace LanChat.Networking
 {
     internal class ClientHandler
     {
+
     }
 }
