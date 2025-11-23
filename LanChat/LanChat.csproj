@@ -52,6 +52,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Include="Networking\ClientHandler.cs" />
+>>>>>>> e8d7bb097aa67ca30f8163327aae38d40eb98fe2
     <Compile Include="Networking\ClientSocket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
