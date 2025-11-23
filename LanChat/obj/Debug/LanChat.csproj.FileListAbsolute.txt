@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\LanChat\LanChat\bin\Debug\LanChat.exe.config
+C:\Users\Admin\source\repos\LanChat\LanChat\bin\Debug\LanChat.exe
+C:\Users\Admin\source\repos\LanChat\LanChat\bin\Debug\LanChat.pdb
+C:\Users\Admin\source\repos\LanChat\LanChat\obj\Debug\LanChat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LanChat\LanChat\obj\Debug\LanChat.Properties.Resources.resources
+C:\Users\Admin\source\repos\LanChat\LanChat\obj\Debug\LanChat.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LanChat\LanChat\obj\Debug\LanChat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LanChat\LanChat\obj\Debug\LanChat.exe
+C:\Users\Admin\source\repos\LanChat\LanChat\obj\Debug\LanChat.pdb

@@ -52,8 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Networking\ClientHandler.cs" />
-    <Compile Include="Networking\ServerSocket.cs" />
+    <Compile Include="Networking\ClientSocket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

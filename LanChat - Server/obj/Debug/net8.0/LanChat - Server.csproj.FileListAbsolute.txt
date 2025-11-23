@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\LanChat - Server.exe
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\LanChat - Server.deps.json
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\LanChat - Server.runtimeconfig.json
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\LanChat - Server.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\LanChat - Server.pdb
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.sourcelink.json
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\refint\LanChat - Server.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.pdb
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\ref\LanChat - Server.dll

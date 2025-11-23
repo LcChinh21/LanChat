@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\bin\Debug\net8.0\LanChat - Client - ConsoleAppDemo.exe
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\bin\Debug\net8.0\LanChat - Client - ConsoleAppDemo.deps.json
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\bin\Debug\net8.0\LanChat - Client - ConsoleAppDemo.runtimeconfig.json
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\bin\Debug\net8.0\LanChat - Client - ConsoleAppDemo.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\bin\Debug\net8.0\LanChat - Client - ConsoleAppDemo.pdb
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\LanChat - Client - ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\LanChat - Client - ConsoleAppDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\LanChat - Client - ConsoleAppDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\LanChat - Client - ConsoleAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\LanChat - Client - ConsoleAppDemo.sourcelink.json
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\LanChat - Client - ConsoleAppDemo.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\refint\LanChat - Client - ConsoleAppDemo.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\LanChat - Client - ConsoleAppDemo.pdb
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\LanChat - Client - ConsoleAppDemo.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LanChat\LanChat - Client - ConsoleAppDemo\obj\Debug\net8.0\ref\LanChat - Client - ConsoleAppDemo.dll

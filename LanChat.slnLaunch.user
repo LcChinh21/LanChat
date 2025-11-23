@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LanChat - Server\\LanChat - Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "LanChat - Client - ConsoleAppDemo\\LanChat - Client - ConsoleAppDemo.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

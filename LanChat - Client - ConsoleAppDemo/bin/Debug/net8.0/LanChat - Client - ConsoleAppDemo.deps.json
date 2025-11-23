@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LanChat - Client - ConsoleAppDemo/1.0.0": {
+        "runtime": {
+          "LanChat - Client - ConsoleAppDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanChat - Client - ConsoleAppDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace LanChat___Server.Networking
 {
-    internal class ClientSocket
+    public class ClientSocket
     {
+
     }
 }
