@@ -15,7 +15,7 @@ namespace LanChat_ConsoleAppDemo
             string nickname = Console.ReadLine();
             client.OnMessageReceived += (message) =>
             {
-                Console.WriteLine($"[{nickname}]: {message}");
+                Console.WriteLine(message);
             };
             client.Connect(ip, 5000, nickname);
             Console.WriteLine("Type messages to send to the server. Type 'exit' to quit.");

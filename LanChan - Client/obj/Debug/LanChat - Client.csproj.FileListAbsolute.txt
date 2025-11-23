@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat - Client.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan___Client.Properties.Resources.resources
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat - Client.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat - Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\LanChan - Client.exe.config
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\LanChan - Client.exe
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\LanChan - Client.pdb
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan - Client.exe
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan - Client.pdb
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan - Client.exe.config
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat___Client.Form1.resources
