@@ -9,3 +9,4 @@ C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan - Client.
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan - Client.pdb
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan - Client.exe.config
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat___Client.Form1.resources
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat___Client.InformationForm.resources

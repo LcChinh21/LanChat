@@ -5,6 +5,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace LanChat.Networking
 {
@@ -27,17 +28,16 @@ namespace LanChat.Networking
                 client.Connect(ip, port);
                 stream = client.GetStream();
                 IsConnected = true;
-
                 NickName = nickname;
                 SendMessage(nickname); // Gửi nickname lên server
                 listenThread = new Thread(ListenForMessages);
                 listenThread.IsBackground = true;
                 listenThread.Start();
-                Console.WriteLine("Connected to server.");
+                MessageBox.Show("Connected to server.");
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Failed to connect to server: {ex.Message}");
+                MessageBox.Show($"Failed to connect to server: {ex.Message}");
             }
         }
         public void SendMessage(string message)

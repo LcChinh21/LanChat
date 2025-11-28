@@ -117,6 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;OnlineUsersBox.Name" xml:space="preserve">
+    <value>OnlineUsersBox</value>
+  </data>
+  <data name="&gt;&gt;OnlineUsersBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;OnlineUsersBox.Parent" xml:space="preserve">
+    <value>StatusPanel</value>
+  </data>
+  <data name="&gt;&gt;OnlineUsersBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="&gt;&gt;StatusHeader.Name" xml:space="preserve">
     <value>StatusHeader</value>
   </data>
@@ -127,7 +139,7 @@
     <value>StatusPanel</value>
   </data>
   <data name="&gt;&gt;StatusHeader.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>1</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="StatusPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
@@ -156,11 +168,35 @@
   <data name="&gt;&gt;StatusPanel.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="OnlineUsersBox.ItemHeight" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="OnlineUsersBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 33</value>
+  </data>
+  <data name="OnlineUsersBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 404</value>
+  </data>
+  <data name="OnlineUsersBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;OnlineUsersBox.Name" xml:space="preserve">
+    <value>OnlineUsersBox</value>
+  </data>
+  <data name="&gt;&gt;OnlineUsersBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;OnlineUsersBox.Parent" xml:space="preserve">
+    <value>StatusPanel</value>
+  </data>
+  <data name="&gt;&gt;OnlineUsersBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="StatusHeader.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="StatusHeader.Location" type="System.Drawing.Point, System.Drawing">
-    <value>34, 8</value>
+    <value>40, 8</value>
   </data>
   <data name="StatusHeader.Size" type="System.Drawing.Size, System.Drawing">
     <value>77, 16</value>
@@ -184,16 +220,103 @@
     <value>StatusPanel</value>
   </data>
   <data name="&gt;&gt;StatusHeader.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 397</value>
+  </data>
+  <data name="textBox1.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>604, 39</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>ChatPanel</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="listBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="listBox1.ItemHeight" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="listBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 35</value>
+  </data>
+  <data name="listBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>604, 356</value>
+  </data>
+  <data name="listBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Name" xml:space="preserve">
+    <value>listBox1</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Parent" xml:space="preserve">
+    <value>ChatPanel</value>
+  </data>
+  <data name="&gt;&gt;listBox1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ChatHeader.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="ChatHeader.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="ChatHeader.Location" type="System.Drawing.Point, System.Drawing">
+    <value>302, 8</value>
+  </data>
+  <data name="ChatHeader.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 16</value>
+  </data>
+  <data name="ChatHeader.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="ChatHeader.Text" xml:space="preserve">
+    <value>Chat</value>
+  </data>
+  <data name="ChatHeader.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;ChatHeader.Name" xml:space="preserve">
+    <value>ChatHeader</value>
+  </data>
+  <data name="&gt;&gt;ChatHeader.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ChatHeader.Parent" xml:space="preserve">
+    <value>ChatPanel</value>
+  </data>
+  <data name="&gt;&gt;ChatHeader.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
   <data name="ChatPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
+    <value>Fill</value>
   </data>
   <data name="ChatPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>169, 0</value>
+    <value>163, 0</value>
   </data>
   <data name="ChatPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>631, 450</value>
+    <value>637, 450</value>
   </data>
   <data name="ChatPanel.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -218,9 +341,6 @@
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>800, 450</value>
-  </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>LanChat</value>

@@ -15,7 +15,8 @@ namespace LanChat___Client
     {
         public Form1()
         {
-           
+           InitializeComponent();
+
         }
 
         private void panel2_Paint(object sender, PaintEventArgs e)
@@ -24,6 +25,11 @@ namespace LanChat___Client
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

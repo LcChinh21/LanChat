@@ -7,7 +7,7 @@
         "Action": "Start"
       },
       {
-        "Path": "LanChat - Client - ConsoleAppDemo\\LanChat - Client - ConsoleAppDemo.csproj",
+        "Path": "LanChan - Client\\LanChat - Client.csproj",
         "Action": "Start"
       }
     ]
