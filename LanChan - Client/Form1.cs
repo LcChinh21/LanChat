@@ -33,5 +33,15 @@ namespace LanChat___Client
         {
 
         }
+
+        private void bunifuButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuVSlider1_Scroll(object sender, Utilities.BunifuSlider.BunifuVScrollBar.ScrollEventArgs e)
+        {
+
+        }
     }
 }

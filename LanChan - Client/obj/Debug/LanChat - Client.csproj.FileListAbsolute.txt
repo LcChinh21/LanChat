@@ -10,3 +10,11 @@ C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan - Client.
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChan - Client.exe.config
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat___Client.Form1.resources
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat___Client.InformationForm.resources
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\System.CodeDom.dll
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat .CBE03962.Up2Date

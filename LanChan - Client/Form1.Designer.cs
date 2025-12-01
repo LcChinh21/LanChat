@@ -116,7 +116,6 @@ namespace LanChat___Client
         private System.Windows.Forms.Label ChatHeader;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.ListBox listBox1;
-
     }
 }
 

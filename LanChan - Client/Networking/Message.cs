@@ -12,7 +12,7 @@ namespace LanChat___Client.Networking
         string Content;
         private class User
         {
-            private isOnline = false;
+            private bool isOnline = false;
             private string username;
         }
         

@@ -13,3 +13,11 @@ C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\refint\Lan
 C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.pdb
 C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.genruntimeconfig.cache
 C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\ref\LanChat - Server.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\Bunifu.Licensing.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\Bunifu.UI.WinForms.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\System.Management.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat - Server.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LanChat\LanChat - Server\obj\Debug\net8.0\LanChat .F9731B26.Up2Date
