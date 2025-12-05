@@ -18,3 +18,23 @@ C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\Bunifu.UI.WinForm
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\bin\Debug\System.CodeDom.xml
 C:\Users\Admin\source\repos\LanChat\LanChan - Client\obj\Debug\LanChat .CBE03962.Up2Date
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\LanChan - Client.exe.config
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\LanChan - Client.exe
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\LanChan - Client.pdb
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\Bunifu.Licensing.dll
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\Bunifu.UI.WinForms.dll
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\Newtonsoft.Json.dll
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\System.CodeDom.dll
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\Bunifu.UI.WinForms.xml
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\Newtonsoft.Json.xml
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\bin\Debug\System.CodeDom.xml
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChat - Client.csproj.AssemblyReference.cache
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChan - Client.exe.config
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChat___Client.Form1.resources
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChat___Client.InformationForm.resources
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChan___Client.Properties.Resources.resources
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChat - Client.csproj.GenerateResource.cache
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChat - Client.csproj.CoreCompileInputs.cache
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChat .CBE03962.Up2Date
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChan - Client.exe
+D:\HocTap\HK3\LTTQ\Lan_Chat\LanChat\LanChan - Client\obj\Debug\LanChan - Client.pdb

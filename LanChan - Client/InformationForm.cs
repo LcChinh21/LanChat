@@ -31,12 +31,26 @@ namespace LanChat___Client
         private void ConnectButton_Click(object sender, EventArgs e)
         {
             ClientSocket client = new ClientSocket();
-            while (!client.IsConnected)
+            if (!client.IsConnected)
             {
-                client.Connect(IPInput.Text, 5000, NameInput.Text);
+                try
+                {
+                    client.Connect(IPInput.Text, 5000, NameInput.Text);
+                    if (!client.IsConnected)
+                    {
+                        MessageBox.Show("Không thể kết nối. Kiểm tra IP hoặc server.","Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Kết nối thất bại: " + ex.Message,"Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
             }
             Form1 form1 = new Form1();
             form1.Show();
+            this.Hide();
         }
     }
 }
