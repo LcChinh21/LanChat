@@ -1,4 +1,6 @@
-﻿using System;
+﻿using LanChat.SQLServerDatabase;
+using LanChat___Server;
+using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
@@ -29,11 +31,17 @@ namespace LanChat.Networking
             Console.WriteLine($"Server started on port {port}");
             IsRunning = true;
 
+            // Khoi tao Database
+            SQLServerDatabase.DataBaseHelper.Initialize();
+
+            Console.WriteLine("Database initialized.");
+
             // Thread là tạo luồn chạy song song với luồng chính
             // Tạo một luồng mới để lắng nghe các kết nối từ client
             Thread listenThread = new Thread(ListenForClients);
             // Bắt đầu luồng lắng nghe
             listenThread.Start();
+
         }
 
         private void ListenForClients()
@@ -85,9 +93,9 @@ namespace LanChat.Networking
                     if (byteCount == 0) break; // client ngắt kết nối
 
                     // Chuyển đổi dữ liệu nhận được thành chuỗi để hiển thị
-                    string msg = Encoding.UTF8.GetString(buffer, 0, byteCount);
+                    Message msg = Message.FromJson(Encoding.UTF8.GetString(buffer, 0, byteCount));
                     Console.WriteLine($"[{nickname}]: {msg}");
-                    BroadcastMessage($"[{nickname}]: {msg}");
+                    SendMessage(msg);
                 }
                 catch
                 {
@@ -111,37 +119,110 @@ namespace LanChat.Networking
             client.Close();
         }
 
-        private void BroadcastMessage(string msg)
+        private void SendMessage(Message msg)
         {
-            // Gửi tin nhắn đến tất cả các client đã kết nối
-            byte[] data = Encoding.UTF8.GetBytes(msg);
-            // Lock để tránh xung đột khi nhiều luồng cùng gửi tin nhắn
-            lock (clients)
+            // Check message type
+            if (msg.Type == "private")
             {
-                // Duyệt qua tất cả các client và gửi tin nhắn
-                // Values là thuộc tính trả về tập hợp các giá trị trong Dictionary
-                foreach (var c in clients.Values)
+                // Gửi tin nhắn riêng tư
+                if (clients.ContainsKey(msg.To))
                 {
-                    c.GetStream().Write(data, 0, data.Length);
+                    TcpClient toClient = clients[msg.To];
+                    NetworkStream toStream = toClient.GetStream();
+                    byte[] toBuffer = Encoding.UTF8.GetBytes(msg.ToJson());
+                    toStream.Write(toBuffer, 0, toBuffer.Length);
                 }
             }
+            else if (msg.Type == "message")
+            {
+                // Gửi tin nhắn đến tất cả client
+                byte[] buffer = Encoding.UTF8.GetBytes(msg.ToJson());
+                lock (clients)
+                {
+                    foreach (var client in clients.Values)
+                    {
+                        NetworkStream stream = client.GetStream();
+                        stream.Write(buffer, 0, buffer.Length);
+                    }
+                }
+            }
+            else if (msg.Type == "system")
+            {
+                // Gửi tin nhắn hệ thống đến tất cả client
+                byte[] buffer = Encoding.UTF8.GetBytes(msg.ToJson());
+                lock (clients)
+                {
+                    foreach (var client in clients.Values)
+                    {
+                        NetworkStream stream = client.GetStream();
+                        stream.Write(buffer, 0, buffer.Length);
+                    }
+                }
+            }
+            else if (msg.Type == "login")
+            {
+                // Kiem tra username va password neu Login
+                // Get username va password tu msg.Text (dua tren dinh dang "username:password")
+                // Them du lieu vao DataBase neu Register
+                // Get username va password tu msg.Text (dua tren dinh dang "username:password")
+                // Xu li msg.Text
+                byte[] buffer = Encoding.UTF8.GetBytes(msg.ToJson());
+                string[] parts = msg.Text.Split(':');
+                if (parts.Length != 2)
+                {
+                    // Gui thong bao loi ve client
+                    Message errorMsg = Message.System("Invalid login format. Use username:password");
+                    byte[] errorBuffer = Encoding.UTF8.GetBytes(errorMsg.ToJson());
+                    lock (clients)
+                    {
+                        foreach (var client in clients.Values)
+                        {
+                            NetworkStream stream = client.GetStream();
+                            stream.Write(errorBuffer, 0, errorBuffer.Length);
+                        }
+                    }
+                    return;
+                }
+                if(UserRepostory.UserExists(parts[0]))
+                {
+                    // Kiem tra password
+                    if(!UserRepostory.ValidateUser(parts[0], parts[1]))
+                    {
+                        // Gui thong bao loi ve client
+                        Message errorMsg = Message.System("Invalid password.");
+                        byte[] errorBuffer = Encoding.UTF8.GetBytes(errorMsg.ToJson());
+                        lock (clients)
+                        {
+                            foreach (var client in clients.Values)
+                            {
+                                NetworkStream stream = client.GetStream();
+                                stream.Write(errorBuffer, 0, errorBuffer.Length);
+                            }
+                        }
+                        return;
+                    }
+                }
+            }
+
         }
 
-        // Gửi danh sách online đến tất cả các client
+        // Khi 1 client kết nối hoặc ngắt kết nối, gửi danh sách user online đến tất cả client
         private void BroadcastOnlineList()
         {
-            // Tạo chuỗi danh sách online để gửi
-            string listMsg = "online status:" + string.Join(",", clients.Keys);
-            byte[] data = Encoding.UTF8.GetBytes(listMsg);
-
+            Message onlineMsg = new Message
+            {
+                Type = "online",
+                Users = new string[clients.Count]
+            };
+            int index = 0;
             lock (clients)
             {
-                // Duyệt qua tất cả các client và gửi danh sách online
-                foreach (var c in clients.Values)
+                foreach (var nickname in clients.Keys)
                 {
-                    c.GetStream().Write(data, 0, data.Length);
+                    onlineMsg.Users[index++] = nickname;
                 }
             }
+            SendMessage(onlineMsg);
         }
     }
 }

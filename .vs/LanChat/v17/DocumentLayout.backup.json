@@ -3,14 +3,41 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\LanChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37D9EAAA-1401-4527-9602-C3B38A8001D5}|..\\LanChat_Guide\\LanChat - GUI.csproj|c:\\users\\admin\\source\\repos\\lanchat_guide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\networking\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\networking\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchan - client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|solutionrelative:lanchan - client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\sqlserverdatabase\\userrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\sqlserverdatabase\\userrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\sqlserverdatabase\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\sqlserverdatabase\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D9EAAA-1401-4527-9602-C3B38A8001D5}|..\\LanChat_Guide\\LanChat - GUI.csproj|c:\\users\\admin\\source\\repos\\lanchat_guide\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D9EAAA-1401-4527-9602-C3B38A8001D5}|..\\LanChat_Guide\\LanChat - GUI.csproj|c:\\users\\admin\\source\\repos\\lanchat_guide\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\lanchat - server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\lanchat - server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LanChat - Client||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|C:\\Users\\Admin\\source\\repos\\LanChat\\lanchan - client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|solutionrelative:lanchan - client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|C:\\Users\\Admin\\source\\repos\\LanChat\\lanchan - client\\networking\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +50,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|C:\\Users\\Admin\\source\\repos\\LanChat\\lanchan - client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|solutionrelative:lanchan - client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\networking\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\networking\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|C:\\Users\\Admin\\source\\repos\\LanChat\\lanchan - client\\informationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,20 +76,12 @@
       "RelativeMoniker": "D:0:0:{C9DE9480-7772-4CB7-B51B-10491D145A22}|LanChan - Client\\LanChat - Client.csproj|solutionrelative:lanchan - client\\informationform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\lanchat - server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\lanchat - server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C68A42C8-2541-4294-B757-1D713286954D}|LanChat - Client - ConsoleAppDemo\\LanChat - Client - ConsoleAppDemo.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - client - consoleappdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C68A42C8-2541-4294-B757-1D713286954D}|LanChat - Client - ConsoleAppDemo\\LanChat - Client - ConsoleAppDemo.csproj|solutionrelative:lanchat - client - consoleappdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C68A42C8-2541-4294-B757-1D713286954D}|LanChat - Client - ConsoleAppDemo\\LanChat - Client - ConsoleAppDemo.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - client - consoleappdemo\\networking\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C68A42C8-2541-4294-B757-1D713286954D}|LanChat - Client - ConsoleAppDemo\\LanChat - Client - ConsoleAppDemo.csproj|solutionrelative:lanchat - client - consoleappdemo\\networking\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|c:\\users\\admin\\source\\repos\\lanchat\\lanchat - server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45CC0AC6-2B9D-4194-A342-E47651080383}|LanChat - Server\\LanChat - Server.csproj|solutionrelative:lanchat - server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat\\Networking\\ServerSocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -88,7 +103,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,210 +111,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat_Guide\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\LanChat_Guide\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat_Guide\\Form1.cs",
-              "RelativeToolTip": "..\\LanChat_Guide\\Form1.cs",
-              "ViewState": "AgIAAA0BAAAAAAAAAAAUwAcBAAAoAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\Message.cs",
+              "RelativeDocumentMoniker": "LanChat - Server\\Message.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\Message.cs",
+              "RelativeToolTip": "LanChat - Server\\Message.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T07:02:06.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:38:46.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LanChat - Client",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\LanChat - Client.csproj",
-              "RelativeDocumentMoniker": "LanChan - Client\\LanChat - Client.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\LanChat - Client.csproj",
-              "RelativeToolTip": "LanChan - Client\\LanChat - Client.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-01T06:56:04.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ServerSocket.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\Networking\\ServerSocket.cs",
               "RelativeDocumentMoniker": "LanChat - Server\\Networking\\ServerSocket.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\Networking\\ServerSocket.cs",
               "RelativeToolTip": "LanChat - Server\\Networking\\ServerSocket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwH4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwNcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T12:13:06.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Form1.cs",
-              "RelativeDocumentMoniker": "LanChan - Client\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Form1.cs",
-              "RelativeToolTip": "LanChan - Client\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T13:23:49.868Z",
+              "WhenOpened": "2025-11-23T12:13:06.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientSocket.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Networking\\ClientSocket.cs",
-              "RelativeDocumentMoniker": "LanChan - Client\\Networking\\ClientSocket.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Networking\\ClientSocket.cs",
-              "RelativeToolTip": "LanChan - Client\\Networking\\ClientSocket.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T13:40:02.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Networking\\Message.cs",
-              "RelativeDocumentMoniker": "LanChan - Client\\Networking\\Message.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Networking\\Message.cs",
-              "RelativeToolTip": "LanChan - Client\\Networking\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T14:16:11.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\App.config",
-              "RelativeDocumentMoniker": "LanChan - Client\\App.config",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\App.config",
-              "RelativeToolTip": "LanChan - Client\\App.config",
+              "DocumentIndex": 1,
+              "Title": "UserRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\SQLServerDatabase\\UserRepostory.cs",
+              "RelativeDocumentMoniker": "LanChat - Server\\SQLServerDatabase\\UserRepostory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\SQLServerDatabase\\UserRepostory.cs",
+              "RelativeToolTip": "LanChat - Server\\SQLServerDatabase\\UserRepostory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-11-23T13:46:32.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "LanChan - Client\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Form1.Designer.cs",
-              "RelativeToolTip": "LanChan - Client\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T13:39:46.621Z"
+              "WhenOpened": "2025-12-04T14:34:43.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Program.cs",
-              "RelativeDocumentMoniker": "LanChan - Client\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Program.cs",
-              "RelativeToolTip": "LanChan - Client\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\SQLServerDatabase\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "LanChat - Server\\SQLServerDatabase\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\SQLServerDatabase\\DataBaseHelper.cs",
+              "RelativeToolTip": "LanChat - Server\\SQLServerDatabase\\DataBaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T13:44:23.059Z"
+              "WhenOpened": "2025-12-04T14:34:41.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InformationForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.cs",
-              "RelativeDocumentMoniker": "LanChan - Client\\InformationForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.cs",
-              "RelativeToolTip": "LanChan - Client\\InformationForm.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAApwCYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:29:35.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InformationForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.cs",
-              "RelativeDocumentMoniker": "LanChan - Client\\InformationForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.cs [Design]",
-              "RelativeToolTip": "LanChan - Client\\InformationForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:29:27.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InformationForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.Designer.cs",
-              "RelativeDocumentMoniker": "LanChan - Client\\InformationForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.Designer.cs",
-              "RelativeToolTip": "LanChan - Client\\InformationForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:36:17.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InformationForm.resx",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.resx",
-              "RelativeDocumentMoniker": "LanChan - Client\\InformationForm.resx",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.resx",
-              "RelativeToolTip": "LanChan - Client\\InformationForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-28T13:36:27.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClientSocket.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Client - ConsoleAppDemo\\Networking\\ClientSocket.cs",
-              "RelativeDocumentMoniker": "LanChat - Client - ConsoleAppDemo\\Networking\\ClientSocket.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Client - ConsoleAppDemo\\Networking\\ClientSocket.cs",
-              "RelativeToolTip": "LanChat - Client - ConsoleAppDemo\\Networking\\ClientSocket.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T12:27:43.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Client - ConsoleAppDemo\\Program.cs",
-              "RelativeDocumentMoniker": "LanChat - Client - ConsoleAppDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Client - ConsoleAppDemo\\Program.cs",
-              "RelativeToolTip": "LanChat - Client - ConsoleAppDemo\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvwsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T12:27:26.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ClientSocket.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat\\Networking\\ClientSocket.cs",
-              "RelativeDocumentMoniker": "LanChat\\Networking\\ClientSocket.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat\\Networking\\ClientSocket.cs",
-              "RelativeToolTip": "LanChat\\Networking\\ClientSocket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T12:59:56.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LanChat - Server.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\LanChat - Server.csproj",
-              "RelativeDocumentMoniker": "LanChat - Server\\LanChat - Server.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\LanChat - Server.csproj",
-              "RelativeToolTip": "LanChat - Server\\LanChat - Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-23T10:06:44.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\Program.cs",
               "RelativeDocumentMoniker": "LanChat - Server\\Program.cs",
@@ -311,7 +172,207 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat_Guide\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\LanChat_Guide\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat_Guide\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\LanChat_Guide\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:47:56.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat_Guide\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\LanChat_Guide\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat_Guide\\LoginForm.cs",
+              "RelativeToolTip": "..\\LanChat_Guide\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:47:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanChat - Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\LanChat - Server.csproj",
+              "RelativeDocumentMoniker": "LanChat - Server\\LanChat - Server.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Server\\LanChat - Server.csproj",
+              "RelativeToolTip": "LanChat - Server\\LanChat - Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T10:06:44.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LanChat - Client",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\LanChat - Client.csproj",
+              "RelativeDocumentMoniker": "LanChan - Client\\LanChat - Client.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\LanChat - Client.csproj",
+              "RelativeToolTip": "LanChan - Client\\LanChat - Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-01T06:56:04.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Networking\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "LanChan - Client\\Networking\\ClientSocket.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Networking\\ClientSocket.cs",
+              "RelativeToolTip": "LanChan - Client\\Networking\\ClientSocket.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:40:02.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Form1.cs",
+              "RelativeDocumentMoniker": "LanChan - Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Form1.cs",
+              "RelativeToolTip": "LanChan - Client\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:23:49.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Networking\\Message.cs",
+              "RelativeDocumentMoniker": "LanChan - Client\\Networking\\Message.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Networking\\Message.cs",
+              "RelativeToolTip": "LanChan - Client\\Networking\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:16:11.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\App.config",
+              "RelativeDocumentMoniker": "LanChan - Client\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\App.config",
+              "RelativeToolTip": "LanChan - Client\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-23T13:46:32.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LanChan - Client\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Form1.Designer.cs",
+              "RelativeToolTip": "LanChan - Client\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:46.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Program.cs",
+              "RelativeDocumentMoniker": "LanChan - Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\Program.cs",
+              "RelativeToolTip": "LanChan - Client\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:44:23.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InformationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.cs",
+              "RelativeDocumentMoniker": "LanChan - Client\\InformationForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.cs",
+              "RelativeToolTip": "LanChan - Client\\InformationForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwCYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:29:35.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InformationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.cs",
+              "RelativeDocumentMoniker": "LanChan - Client\\InformationForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.cs [Design]",
+              "RelativeToolTip": "LanChan - Client\\InformationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:29:27.486Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "InformationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.Designer.cs",
+              "RelativeDocumentMoniker": "LanChan - Client\\InformationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.Designer.cs",
+              "RelativeToolTip": "LanChan - Client\\InformationForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:36:17.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InformationForm.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.resx",
+              "RelativeDocumentMoniker": "LanChan - Client\\InformationForm.resx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChan - Client\\InformationForm.resx",
+              "RelativeToolTip": "LanChan - Client\\InformationForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-28T13:36:27.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Client - ConsoleAppDemo\\Networking\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "LanChat - Client - ConsoleAppDemo\\Networking\\ClientSocket.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Client - ConsoleAppDemo\\Networking\\ClientSocket.cs",
+              "RelativeToolTip": "LanChat - Client - ConsoleAppDemo\\Networking\\ClientSocket.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:27:43.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Client - ConsoleAppDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LanChat - Client - ConsoleAppDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat - Client - ConsoleAppDemo\\Program.cs",
+              "RelativeToolTip": "LanChat - Client - ConsoleAppDemo\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:27:26.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat\\Networking\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "LanChat\\Networking\\ClientSocket.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat\\Networking\\ClientSocket.cs",
+              "RelativeToolTip": "LanChat\\Networking\\ClientSocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:59:56.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "ServerSocket.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat\\Networking\\ServerSocket.cs",
               "RelativeDocumentMoniker": "LanChat\\Networking\\ServerSocket.cs",
@@ -322,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LanChat\\LanChat\\Form1.cs",
               "RelativeDocumentMoniker": "LanChat\\Form1.cs",
